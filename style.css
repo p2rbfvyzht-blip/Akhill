@@ -1,0 +1,4 @@
+
+body { margin:0; font-family: Arial; background: pink; }
+.container { max-width:900px; margin:20px auto; background:white; padding:20px; border-radius:16px; }
+.nav a { margin:5px; display:inline-block; padding:8px 12px; background:#ff99c8; color:white; border-radius:10px; text-decoration:none; }
